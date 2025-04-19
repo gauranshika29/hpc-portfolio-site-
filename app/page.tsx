@@ -12,7 +12,7 @@ export default function HPCPortfolio() {
         <p className="text-lg text-gray-600">An HPC Exploration by Anshika Gaur</p>
         <Button asChild size="lg">
           <a
-            href="https://github.com/gauranshika29/hpc-neural-network"
+            href="https://github.com/gauranshika29/hpc-portfolio-site-"
             target="_blank"
             rel="noopener noreferrer"
           >
